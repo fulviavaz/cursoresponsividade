@@ -1,2 +1,4 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+Site do curso de Resposividade da Alura
+
+com ênfase no mobile first
